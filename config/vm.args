@@ -1,0 +1,6 @@
+-sname test_relx
+
+-setcookie test_relx_cookie
+
++K true
++A30
